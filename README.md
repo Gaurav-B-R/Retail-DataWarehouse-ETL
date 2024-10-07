@@ -35,5 +35,3 @@ The final output is an Excel file named **`Retail_DataWarehouse.xlsx`**, which i
 - `Product_Dimension`
 - `Store_Dimension`
 - `Transaction_Fact`
-
-## File Structure
